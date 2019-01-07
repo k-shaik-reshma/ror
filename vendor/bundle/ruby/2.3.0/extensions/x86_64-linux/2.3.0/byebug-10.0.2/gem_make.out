@@ -1,0 +1,19 @@
+current directory: /home/ekincare/Desktop/rails_apps/test_app/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext/byebug
+/home/ekincare/.rvm/rubies/ruby-2.3.5/bin/ruby -r ./siteconf20190107-16398-1fvgwkz.rb extconf.rb
+creating Makefile
+
+current directory: /home/ekincare/Desktop/rails_apps/test_app/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/ekincare/Desktop/rails_apps/test_app/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling threads.c
+compiling locker.c
+compiling context.c
+compiling byebug.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/ekincare/Desktop/rails_apps/test_app/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20190107-16398-1rovwnp/byebug
